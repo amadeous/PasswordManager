@@ -1,0 +1,8 @@
+**/*.o
+**/*.pdf
+
+**/.DS_Store
+**/.directory
+
+# Prevent password to be uploaded on a repo
+src/data/*
